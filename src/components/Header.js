@@ -14,6 +14,8 @@ const Header = () => {
             <button aria-label='On Click'>Reserve Table</button>
           </Link>
         </div>
+
+        {/* Banner Image */}
         <div className='banner-img'>
           <img src={bannerImg} alt='' />
         </div>

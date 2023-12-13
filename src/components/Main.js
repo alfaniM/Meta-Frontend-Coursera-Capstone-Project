@@ -28,6 +28,7 @@ const Main = () => {
     }
     return result;
   };
+
   const submitAPI = function (formData) {
     return true;
   };
